@@ -1,6 +1,6 @@
 
-Welcome to the **Datawarehouse and Analystics Project** repository
-
+**Datawarehouse and Analystics Project**
+---
 This project demonstrates basics in data warehouse and showcase it as a comprehensive data warehousing and analytics solution, from building a data warehouse to generating actionable insights. 
 
 Project Overview
